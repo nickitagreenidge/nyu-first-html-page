@@ -1,0 +1,36 @@
+body {
+    background: purple;
+}
+
+img {
+    height: 150px;
+}
+
+li {
+    color: red;
+}
+
+a {
+    color: white;
+}
+
+h2 {
+    color: blanchedalmond;
+}
+
+.blue-bg {
+    background: blue;
+}
+
+.red-bg {
+    background: red;
+}
+
+.black-txt {
+    color: black;
+}
+
+#font-32 {
+    font-size: 32px;
+    color: aqua;
+}
